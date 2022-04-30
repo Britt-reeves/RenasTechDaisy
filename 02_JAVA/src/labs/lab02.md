@@ -1,4 +1,5 @@
 ## Lab 02 -    (Array) Find Minimum ,MAX
-    //    Write a method that can find the maximum number 
-    from an int Array
+     //    Write a program that can print the numbers between 1 ~ 100 that can be divisible by 3, 5, and 15.
+            //
+            //            if the number can be divisible by 3, 5 and 15, 
 
